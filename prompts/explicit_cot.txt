@@ -1,0 +1,11 @@
+Answer the question step by step.
+
+Explain:
+1. What makes the platypus unusual.
+2. What evolutionary pressures affected it.
+3. How these pressures led to its current traits.
+
+Then give a short final answer.
+
+Question:
+Why is the platypus the way it is?
