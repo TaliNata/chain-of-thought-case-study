@@ -1,0 +1,7 @@
+Think through the answer step by step internally.
+
+Then provide only the final explanation in 3–4 sentences.
+Do not include your reasoning steps in the output.
+
+Question:
+Why is the platypus the way it is?
